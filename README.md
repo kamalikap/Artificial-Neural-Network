@@ -1,4 +1,4 @@
-# Artificial-Neural-Network
+# Artificial Neural Network(ANN)
 
 * The Dataset consisted of 10,000 entries with different attributes of a customer like- ID, name, Credit Score, place from where they belong, Gender, Age, Tenure, Bank Balance, Estimated Salary and whether the person exited the bank or not.
 * First the data is divided into the factors that helps in predicting the result and whether the person will leave bank or not. 
